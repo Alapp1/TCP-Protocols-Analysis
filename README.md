@@ -1,5 +1,5 @@
 # Internet_Protocols_project2 - CSC 573 
-
+This project was completed with a partner as part of a CSC 573 assignment at NC State University. Permission to upload this project to a public repository was granted by the CSC 573 professor.
 ## Team Members
 
 #### 1. Hasini Chenchala (hchench)
